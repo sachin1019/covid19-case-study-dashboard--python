@@ -1,4 +1,4 @@
-# covid19-case-study-dashboard--python
+
 # 🦠 COVID-19 Case Study Dashboard
 
 ## 📌 Project Overview
@@ -27,8 +27,4 @@ The study uses Python for data cleaning, time-series analysis, and visualization
 - Monthly Case Progression  
 - Recovery-to-Confirmed Ratio  
 
-*(Add screenshots here from your images/ folder)*  
 
----
-
-## 📂 Repository Structure
